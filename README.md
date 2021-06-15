@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhaiminul-Kabir
 - 👀 I’m interested in ... Game development, AI , Software development , Database management 
-- 🌱 I’m currently learning ... lua, Go, Ruby, SQL
+- 🌱 I’m currently learning ... lua, Go, Ruby, SQL, Python,  R
 - 🎉 I have finished ... C, C++, C#, Java, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... muhaiminulkabir32@gmail.com 
