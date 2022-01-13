@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhaiminul-Kabir
 - 👀 I’m interested in ... Software development , Database management 
 - 🌱 I’m currently learning ... 
-- 🎉 I have finished ... C, Java, HTML
+- 🎉 I have finished ... C, C++, Java, Kotlin, CSS, SQL, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... muhaiminulkabir32@gmail.com 
 
