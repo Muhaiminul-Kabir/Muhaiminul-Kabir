@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Md. Akib Hasan</h1>
-<h3 align="center">A Software Engineer and Machine Learning enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Md. Muhaiminul Kabir</h1>
+<h3 align="center">A Computer Science and Engineering Graduate</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdakibhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mdakibhasan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhaiminul-Kabir&label=Profile%20views&color=0e75b6&style=flat" alt="mdakibhasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdakibhasan" alt="mdakibhasan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muhaiminul-Kabir" alt="Muhaiminul-Kabir" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Computer Vision**
 
-- 📫 How to reach me **akibhasanomi@gmail.com**
+- 📫 How to reach me **muhaiminulkabir32@gmail.com**
 
-- 📄 Know about my experiences [https://akibhasan.tiiny.site](https://akibhasan.tiiny.site)
+- 📄 Know about my experiences [https://kabirlabs.vercel.app](https://kabirlabs.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
