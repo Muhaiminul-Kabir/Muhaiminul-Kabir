@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **muhaiminulkabir32@gmail.com**
 
-- 📄 Know about my experiences [https://kabirlabs.vercel.app](https://kabirlabs.vercel.app)
+- 📄 Know about my experiences [https://muhaiminul-kabir.vercel.app](https://muhaiminul-kabir.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
